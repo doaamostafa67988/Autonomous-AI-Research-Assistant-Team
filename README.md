@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/7131a4f3-9a2e-4129-b7d6-29a55924a585
 
 ## 🚀 Live App
 
-**[→ Open on Streamlit Cloud](https://your-app-name.streamlit.app)**
+**[→ Open on Streamlit Cloud](https://autonomous-ai-research-assistant-team.streamlit.app/)**
 
 ---
 
