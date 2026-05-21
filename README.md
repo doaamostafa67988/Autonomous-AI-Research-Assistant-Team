@@ -6,15 +6,20 @@
 [![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph-orange)](https://github.com/langchain-ai/langgraph)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-red?logo=streamlit)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+
+
+---
+## 📺 Demo
+
+*The demo video below shows a complete run from query to exported PDF.*
+
+https://github.com/user-attachments/assets/7131a4f3-9a2e-4129-b7d6-29a55924a585
 
 ---
 
-## 📺 Demo
+## 🏗️ Architecture
 
-> 🎬 **[Watch the full demo video](docs/demo.mp4)** — shows a complete run on *"Transformer Architectures in NLP"* from query to exported PDF.
-
-![Architecture Diagram](docs/architecture.svg)
+![Multi-Agent Research Assistant Architecture Diagram](https://github.com/user-attachments/assets/03f69207-8a28-4654-a00b-0b2022874722)
 
 *Five-agent LangGraph pipeline: Coordinator → Search → Analyze+RAG (parallel) → Synthesise → Citations*
 
